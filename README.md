@@ -1,4 +1,4 @@
-                                                           ml
+
 <h1 align="center">Hi 👋, I'm Taniya Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=6c09b952deua3o73vcfcrsakwx1ibo90cjjolkrs8pjntq7e&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
